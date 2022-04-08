@@ -6,3 +6,8 @@
 ## 4. Grouping and Sorting
 ## 5. Data types and Missing values
 ## 6. Renaming and Combining
+
+
+### Certificate of completion
+
+![Bijay Pachhai - Pandas](https://user-images.githubusercontent.com/86017045/162373562-d80ed0cc-7381-4a5a-8b67-88797cc06af5.png)
